@@ -1,0 +1,14 @@
+/* CSS for Todo Component Start */
+
+.todo{
+  background-color:rgb(232, 248, 250);
+  box-shadow: black 10 10px;
+  width:500px;
+  height:100px;
+  border-radius: 30px;
+  font-family: fantasy;
+  margin-top: 5px;
+  color: black;
+}
+/* CSS for Todo Component End */
+

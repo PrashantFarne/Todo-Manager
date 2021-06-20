@@ -1,0 +1,42 @@
+/* CSS for App Component Start */
+
+.App {
+  background-color: #f8f8ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-left: 40em;
+  border-radius: 30px;
+}
+
+header {
+  color: black;
+  font-size: larger;
+  font-family: cursive;
+  position: relative;
+  left: 10px;
+  background-color:rgb(228, 251, 255, 0.5);
+  width: 500px;
+  background-color:rgb(232, 248, 250);
+  box-shadow: white 10 10;
+  border-radius: 30px;
+}
+
+.side {
+  background-color: whitesmoke;
+  position: absolute;
+  color: black;
+  width: 550px;
+  height: 550px;
+  border-radius: 40px;
+  font-family: fantasy;
+  font-size: larger;
+}
+
+Button{
+    height:30px;
+}
+
+/* CSS for TodoList Component End */
+
